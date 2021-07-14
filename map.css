@@ -1,0 +1,16 @@
+h4 {
+    font-weight: normal;
+    /* margin: 0 0 0 2px; */
+}
+
+h4, hr {
+    margin-left: 40px;
+}
+
+.arrows {
+    list-style-image: url(arrow.gif);
+}
+
+ol {
+    list-style-image: none;
+}
